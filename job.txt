@@ -1,0 +1,169 @@
+https://wellfound.com/jobs/4084234-software-developer-backend-intern-1-2027-28?utm_source=chatgpt.com
+Backend Engineering Intern (2027–2028)
+Company: Auto Wisdom
+Source: Wellfound — Software Developer (Backend) Intern – 2027/28
+
+JOB DETAILS
+- Job type: Internship
+- Work arrangement: Remote only
+- Experience: No experience required
+- Monthly stipend: ₹5,000
+- Weekly commitment: Approximately 25–30 hours
+- Minimum duration: 4 months
+- Equity: None
+- Visa sponsorship: Not available
+- Relocation: Not allowed
+- Preferred graduation year: 2027 or 2028
+- Company stage: Early-stage startup
+- Typical response time: within two weeks
+
+ABOUT THE JOB
+This internship is for students who want hands-on experience building real backend systems.
+
+Auto Wisdom emphasizes production engineering, responsibility, practical learning, and direct feedback. Interns work with the founder and get exposure to backend engineering, software architecture, product decisions, and operating production systems.
+
+The role involves working on APIs, data flows, and backend systems used by real users, not isolated practice projects.
+
+ABOUT AUTO WISDOM
+Auto Wisdom builds automotive intelligence and digital products that help people make better decisions about cars, car ownership, and automotive services.
+
+The company is founder-led, so the intern will have direct exposure to engineering decisions and the practical challenges of building and maintaining production software.
+
+Company size: 1–10 employees
+Type: Startup
+Industries: Automotive products and software development
+Location: Bengaluru, with Nagpur and Mumbai also listed
+Founder and CEO: Siddhesh Gupta
+Focus: Automotive intelligence and technology that improves car ownership
+
+WHY JOIN
+- Build and release production backend features using Go and PostgreSQL.
+- Work directly with the founder on engineering and architecture decisions.
+- Receive frequent technical and product feedback.
+- Work on APIs, authentication, data models, background jobs, and production workflows.
+- Understand how backend, frontend, infrastructure, and product decisions connect.
+- Take responsibility for work from understanding requirements through implementation, review, quality assurance, and release.
+- Gain practical experience maintaining an existing production codebase.
+
+RESPONSIBILITIES
+1. Build and maintain backend services using Go (Golang).
+2. Design and evolve REST APIs and their request/response contracts.
+3. Work with PostgreSQL, relational data modelling, database migrations, and queries.
+4. Develop reliable background jobs and asynchronous workflows.
+5. Use Redis for caching, coordination, and temporary state where necessary.
+6. Implement authentication, authorization, and secure account workflows.
+7. Handle database transactions, retries, idempotency, and failure recovery.
+8. Debug frontend-backend integration and production issues.
+9. Write tests for successful operations, failure scenarios, and important edge cases.
+10. Review existing architecture before introducing new services or patterns.
+11. Participate in code reviews and architecture discussions.
+12. Use Docker and existing deployment and continuous integration workflows.
+13. Document important APIs, engineering decisions, and implementation trade-offs.
+
+HOW THEY EXPECT YOU TO WORK
+Auto Wisdom emphasizes problem-solving and engineering judgment, not just code that happens to work.
+
+Interns are expected to:
+- Understand requirements, existing code, and data flows before implementing changes.
+- Research unfamiliar concepts before choosing an approach.
+- Break complicated tasks into clear implementation plans.
+- Identify dependencies, assumptions, risks, and edge cases early.
+- Investigate problems independently and ask focused questions when blocked.
+- Avoid repeatedly trying fixes without understanding the underlying cause.
+- Estimate tasks realistically and improve estimation over time.
+- Meet agreed deadlines and communicate delays before deadlines pass.
+- Provide revised completion estimates when timelines change.
+- Test and review their own changes before requesting code review.
+- Consider security, concurrency, data integrity, failure recovery, and backward compatibility.
+- Take ownership of tasks through implementation, review, quality assurance, and completion.
+
+AI-ASSISTED DEVELOPMENT
+The company uses modern AI development tools as an accelerator, not as a substitute for understanding software engineering.
+
+Interns must be able to:
+- Explain the code and architecture decisions they submit.
+- Independently validate AI-generated code and recommendations.
+- Recognize when an AI-generated solution does not fit the existing codebase or architecture.
+- Verify assumptions against the actual implementation and documentation.
+- Test and take responsibility for all AI-assisted work.
+
+Important: You should be able to explain and validate any backend code you submit, even when AI tools helped you write it.
+
+REQUIRED QUALIFICATIONS AND SKILLS
+- Strong fundamentals in Go (Golang).
+- A good understanding of SQL, PostgreSQL, and relational data modelling.
+- Understanding of REST APIs and frontend-backend integration.
+- Familiarity with Git and collaborative development workflows.
+- Ability to read and understand an existing codebase before modifying it.
+- Structured problem-solving rather than trial-and-error coding.
+- Ability to explain technical decisions and implementation trade-offs.
+- Good debugging, testing, and self-review habits.
+- Awareness of security and data-integrity concerns in backend systems.
+- Willingness to ask focused questions when genuinely blocked.
+- Realistic task estimation and respect for agreed deadlines.
+- Proactive communication when blockers or timelines change.
+- Openness to code-review feedback and the ability to apply it consistently.
+
+BONUS QUALIFICATIONS
+- Experience with GORM or another Go ORM.
+- Experience with Redis.
+- Knowledge of Docker and containerized applications.
+- Experience with background jobs, queues, or worker systems.
+- Understanding of transactions, concurrency, and idempotency.
+- Knowledge of OAuth 2.0, JWT, or session-based authentication.
+- Familiarity with CI/CD and production deployment workflows.
+- Exposure to Supabase, Railway, DigitalOcean, Cloudflare, or similar platforms.
+- Interest in system design, reliability, and scalable backend systems.
+- Previously deployed backend projects, internships, or open-source contributions.
+- Interest in cars, automotive technology, or mobility.
+
+ELIGIBILITY
+- Students pursuing a B.Tech, B.E., or related technical degree.
+- Students preferably graduating in 2027 or 2028.
+- Candidates available for at least four months.
+- Candidates able to commit approximately 25–30 hours per week.
+- Candidates from all colleges are welcome; practical engineering ability matters more than college reputation.
+
+STIPEND AND BENEFITS
+Monthly stipend: ₹5,000
+
+Also mentioned:
+- Direct exposure to founder-led backend engineering and architecture decisions.
+- Ownership of production APIs and backend workflows.
+- Frequent technical and product feedback.
+- Experience with professional code reviews, quality assurance, and release processes.
+- Practical experience with production databases, APIs, and asynchronous systems.
+- A letter of recommendation based on performance.
+- Priority consideration for future internships or full-time opportunities, depending on performance and business needs.
+
+APPLICATION INSTRUCTIONS
+Share:
+1. GitHub profile
+2. One backend project you are genuinely proud of
+
+Explain:
+- What you personally built
+- What you owned from beginning to end
+- How you designed the API or data model
+- One difficult backend problem you encountered
+- How you investigated and solved the problem
+- How you tested whether your solution was correct
+
+TECHNOLOGIES
+Required / expected use:
+- Go (Golang): backend development
+- PostgreSQL: relational database
+- SQL: database queries
+- REST APIs: backend interfaces
+- Redis: caching and temporary state
+- Docker: containerization
+- AWS: cloud technology
+- DBMS: database fundamentals
+- CI/CD: integration and deployment workflows
+
+Also mentioned: GORM, OAuth 2.0, JWT, Supabase, Railway, DigitalOcean, Cloudflare
+
+COMPANY PERKS (from company profile; may not all apply to this intern role)
+- Work-from-home flexibility is described on the company profile as 2–3 days a week, but this internship listing is remote only.
+- Snacks and meal reimbursements, subject to a fixed weekly amount under company policy.
+- Access to automotive experiences.
